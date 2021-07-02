@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Felipe, I'm a BackEnd Developer
+My name is Felipe Herrera, I'm a BackEnd Developer
 
 - 🌱 I’m currently taking **a Fullstack programming course.**
 
