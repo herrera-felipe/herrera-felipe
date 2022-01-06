@@ -1,4 +1,4 @@
-<h1 align=center>¡Hello! My name is Felipe Herrera</h1>
+<h1 align=center>¡Hello! I'm Felipe Herrera</h1>
 <h3 align="center">Java Backend Developer</h3>
 
 <h3 align="left">How to reach me:</h3>
