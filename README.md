@@ -21,6 +21,9 @@
   <a href="https://maven.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/48eaf5a418fe5d8d29d3c2ef5c5d2a0241127de1/icons/file_type_maven.svg" alt="maven" width="40" height="40"/> </a>
   <a href="https://hibernate.org/" target="blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://junit.org/junit5/" target="_blank"> <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="Junit5" width="40" height="40"/> </a>
+  <a href="https://site.mockito.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" alt="mockito" width="80" height="40"/> </a>
+  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  
 </p>
